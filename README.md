@@ -30,7 +30,7 @@ Most of my university projects are built in teams. You can find them pinned belo
 
 #### Socials
 
-[![LINKEDIN](https://img.shields.io/badge/Jo%C3%A3o%20Pedro%20Ferreira-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedroferreira19)
+[![LINKEDIN](https://img.shields.io/badge/Jo%C3%A3o%20Pedro%20Ferreira-000000?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40IDIwLjVoLTMuNnYtNS42YzAtMS4zIDAtMy0xLjgtM3MtMi4xIDEuNC0yLjEgMi45djUuN0g5LjNWOWgzLjR2MS42aC4xYy41LS45IDEuNi0xLjggMy40LTEuOCAzLjYgMCA0LjMgMi40IDQuMyA1LjV2Ni4yWk01LjMgNy40YTIuMSAyLjEgMCAxIDEgMC00LjIgMi4xIDIuMSAwIDAgMSAwIDQuMlpNNy4xIDIwLjVIMy41VjloMy42djExLjVaTTIyLjIgMEgxLjhDLjggMCAwIC44IDAgMS43djIwLjZjMCAuOS44IDEuNyAxLjggMS43aDIwLjRjMSAwIDEuOC0uOCAxLjgtMS43VjEuN0MyNCAuOCAyMy4yIDAgMjIuMiAwWiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/joaopedroferreira19)
 [![INSTAGRAM](https://img.shields.io/badge/ojaoferreira-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ojaoferreira)
 [![EMAIL](https://img.shields.io/badge/email-000000?style=flat&logo=gmail&logoColor=white)](mailto:jpf190617@gmail.com)
 [![PORTFOLIO](https://img.shields.io/badge/portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-ruby-omega-19.vercel.app)
